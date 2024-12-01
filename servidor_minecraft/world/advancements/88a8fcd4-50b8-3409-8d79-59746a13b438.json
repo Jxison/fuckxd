@@ -10,6 +10,7 @@
       "minecraft:sunflower_plains": "2024-12-01 05:25:40 +0000",
       "minecraft:windswept_hills": "2024-12-01 05:13:51 +0000",
       "minecraft:river": "2024-12-01 05:23:38 +0000",
+      "minecraft:dripstone_caves": "2024-12-01 06:20:59 +0000",
       "minecraft:swamp": "2024-12-01 05:22:29 +0000",
       "minecraft:forest": "2024-12-01 05:36:39 +0000",
       "minecraft:flower_forest": "2024-12-01 05:18:19 +0000",
@@ -216,6 +217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-01 06:21:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_the_recipe": "2024-12-01 05:34:42 +0000"
@@ -303,6 +310,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 05:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-01 06:22:17 +0000"
     },
     "done": true
   },
@@ -438,6 +451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-01 06:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-01 05:41:01 +0000"
@@ -459,6 +478,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-01 05:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-01 06:22:17 +0000"
     },
     "done": true
   },
@@ -582,9 +607,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-01 06:22:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:pillager": "2024-12-01 05:29:52 +0000"
+      "minecraft:pillager": "2024-12-01 05:29:52 +0000",
+      "minecraft:spider": "2024-12-01 06:21:31 +0000",
+      "minecraft:zombie": "2024-12-01 06:21:39 +0000"
     },
     "done": false
   },
@@ -762,6 +795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-01 06:22:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-01 05:46:57 +0000"
@@ -882,6 +921,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-01 05:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-01 06:22:17 +0000"
     },
     "done": true
   },
