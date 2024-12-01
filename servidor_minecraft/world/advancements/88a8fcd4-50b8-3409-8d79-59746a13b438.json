@@ -198,7 +198,9 @@
       "cooked_porkchop": "2024-12-01 05:33:03 +0000",
       "cooked_beef": "2024-12-01 05:22:20 +0000",
       "porkchop": "2024-12-01 05:16:23 +0000",
-      "bread": "2024-12-01 05:58:20 +0000"
+      "bread": "2024-12-01 05:58:20 +0000",
+      "suspicious_stew": "2024-12-01 06:49:39 +0000",
+      "golden_carrot": "2024-12-01 06:50:30 +0000"
     },
     "done": false
   },
@@ -1020,6 +1022,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-01 06:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-01 06:48:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-12-01 06:32:33 +0000"
@@ -1029,6 +1043,18 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-01 06:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-01 06:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-01 06:49:39 +0000"
     },
     "done": true
   },
