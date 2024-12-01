@@ -168,3 +168,18 @@
 [09:12:24] [Server thread/INFO]: x6Jxison has completed the challenge [Hot Tourist Destinations]
 [09:14:18] [Server thread/INFO]: x6Jxison has made the advancement [A Terrible Fortress]
 [09:17:23] [Server thread/INFO]: x6Jxison has made the advancement [Into Fire]
+[09:40:27] [Server thread/INFO]: Cxmbas lost connection: Disconnected
+[09:40:27] [Server thread/INFO]: Cxmbas left the game
+[09:40:35] [Server thread/INFO]: x6Jxison lost connection: Disconnected
+[09:40:35] [Server thread/INFO]: x6Jxison left the game
+[09:40:44] [Server thread/INFO]: Stopping the server
+[09:40:44] [Server thread/INFO]: Stopping server
+[09:40:44] [Server thread/INFO]: Saving players
+[09:40:44] [Server thread/INFO]: Saving worlds
+[09:40:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:40:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09:40:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09:40:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:40:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:40:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:40:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
