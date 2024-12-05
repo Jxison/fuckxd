@@ -111,3 +111,14 @@
 [07:33:20] [Server thread/INFO]: Cxmbas left the game
 [07:35:15] [Server thread/INFO]: x6Jxison lost connection: Disconnected
 [07:35:15] [Server thread/INFO]: x6Jxison left the game
+[08:12:03] [Server thread/INFO]: Stopping the server
+[08:12:03] [Server thread/INFO]: Stopping server
+[08:12:03] [Server thread/INFO]: Saving players
+[08:12:03] [Server thread/INFO]: Saving worlds
+[08:12:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:12:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08:12:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08:12:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:12:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:12:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:12:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
