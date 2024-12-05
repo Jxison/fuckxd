@@ -1,108 +1,101 @@
-[05:57:18] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05:57:20] [ServerMain/INFO]: Loaded 7 recipes
-[05:57:20] [ServerMain/INFO]: Loaded 1271 advancements
-[05:57:20] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[05:57:20] [Server thread/INFO]: Loading properties
-[05:57:20] [Server thread/INFO]: Default game type: SURVIVAL
-[05:57:20] [Server thread/INFO]: Generating keypair
-[05:57:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:57:21] [Server thread/INFO]: Using epoll channel type
-[05:57:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:57:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:57:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:57:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:57:21] [Server thread/INFO]: Preparing level "world"
-[05:57:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:57:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:57:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:57:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:57:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:57:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:57:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:57:29] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[05:57:30] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[05:57:30] [Worker-Main-3/INFO]: Preparing spawn area: 3%
-[05:57:31] [Worker-Main-1/INFO]: Preparing spawn area: 3%
-[05:57:31] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[05:57:32] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[05:57:32] [Worker-Main-2/INFO]: Preparing spawn area: 7%
-[05:57:33] [Worker-Main-2/INFO]: Preparing spawn area: 9%
-[05:57:33] [Worker-Main-1/INFO]: Preparing spawn area: 10%
-[05:57:34] [Worker-Main-3/INFO]: Preparing spawn area: 11%
-[05:57:34] [Worker-Main-2/INFO]: Preparing spawn area: 13%
-[05:57:35] [Worker-Main-1/INFO]: Preparing spawn area: 15%
-[05:57:35] [Worker-Main-1/INFO]: Preparing spawn area: 17%
-[05:57:36] [Worker-Main-2/INFO]: Preparing spawn area: 19%
-[05:57:36] [Worker-Main-1/INFO]: Preparing spawn area: 21%
-[05:57:37] [Worker-Main-3/INFO]: Preparing spawn area: 23%
-[05:57:37] [Worker-Main-1/INFO]: Preparing spawn area: 24%
-[05:57:38] [Worker-Main-3/INFO]: Preparing spawn area: 27%
-[05:57:38] [Worker-Main-1/INFO]: Preparing spawn area: 29%
-[05:57:39] [Worker-Main-2/INFO]: Preparing spawn area: 31%
-[05:57:39] [Worker-Main-1/INFO]: Preparing spawn area: 34%
-[05:57:40] [Worker-Main-3/INFO]: Preparing spawn area: 36%
-[05:57:40] [Worker-Main-3/INFO]: Preparing spawn area: 39%
-[05:57:41] [Worker-Main-1/INFO]: Preparing spawn area: 42%
-[05:57:41] [Worker-Main-1/INFO]: Preparing spawn area: 44%
-[05:57:42] [Worker-Main-3/INFO]: Preparing spawn area: 47%
-[05:57:42] [Worker-Main-3/INFO]: Preparing spawn area: 49%
-[05:57:43] [Worker-Main-1/INFO]: Preparing spawn area: 52%
-[05:57:43] [Worker-Main-1/INFO]: Preparing spawn area: 55%
-[05:57:44] [Worker-Main-1/INFO]: Preparing spawn area: 57%
-[05:57:44] [Worker-Main-3/INFO]: Preparing spawn area: 60%
-[05:57:45] [Worker-Main-2/INFO]: Preparing spawn area: 64%
-[05:57:45] [Worker-Main-1/INFO]: Preparing spawn area: 67%
-[05:57:46] [Worker-Main-1/INFO]: Preparing spawn area: 69%
-[05:57:46] [Worker-Main-3/INFO]: Preparing spawn area: 71%
-[05:57:47] [Worker-Main-1/INFO]: Preparing spawn area: 74%
-[05:57:47] [Worker-Main-1/INFO]: Preparing spawn area: 78%
-[05:57:48] [Worker-Main-2/INFO]: Preparing spawn area: 81%
-[05:57:48] [Worker-Main-3/INFO]: Preparing spawn area: 84%
-[05:57:49] [Worker-Main-1/INFO]: Preparing spawn area: 85%
-[05:57:49] [Worker-Main-2/INFO]: Preparing spawn area: 89%
-[05:57:50] [Worker-Main-2/INFO]: Preparing spawn area: 92%
-[05:57:50] [Worker-Main-3/INFO]: Preparing spawn area: 96%
-[05:57:51] [Worker-Main-3/INFO]: Preparing spawn area: 99%
-[05:57:51] [Server thread/INFO]: Time elapsed: 24537 ms
-[05:57:51] [Server thread/INFO]: Done (30.061s)! For help, type "help"
-[05:57:55] [Server thread/INFO]: x6Jxison[/127.21.171.204:40351] logged in with entity id 296 at (-8.5, 91.0, -1.5)
-[05:57:55] [Server thread/INFO]: x6Jxison joined the game
-[05:57:59] [Server thread/INFO]: Cxmbas[/127.124.147.232:48183] logged in with entity id 493 at (-7.5, 81.0, 4.5)
-[05:57:59] [Server thread/INFO]: Cxmbas joined the game
-[05:59:17] [Server thread/INFO]: Cxmbas has made the advancement [Stone Age]
-[06:00:59] [Server thread/INFO]: Cxmbas has made the advancement [Getting an Upgrade]
-[06:01:48] [Server thread/INFO]: x6Jxison has made the advancement [Stone Age]
-[06:02:30] [Server thread/INFO]: x6Jxison has made the advancement [Getting an Upgrade]
-[06:09:35] [Server thread/INFO]: Cxmbas has made the advancement [Monster Hunter]
-[06:09:44] [Server thread/INFO]: Cxmbas was slain by Zombie
-[06:10:14] [Server thread/INFO]: x6Jxison has made the advancement [Monster Hunter]
-[06:13:52] [Server thread/INFO]: Cxmbas has made the advancement [Sweet Dreams]
-[06:13:53] [Server thread/INFO]: x6Jxison has made the advancement [Sweet Dreams]
-[06:24:17] [Server thread/INFO]: Cxmbas has made the advancement [Acquire Hardware]
-[06:24:23] [Server thread/INFO]: Cxmbas has made the advancement [Isn't It Iron Pick]
-[06:26:00] [Server thread/INFO]: x6Jxison has made the advancement [Acquire Hardware]
-[06:26:03] [Server thread/INFO]: x6Jxison has made the advancement [Isn't It Iron Pick]
-[06:26:54] [Server thread/INFO]: Cxmbas has made the advancement [Diamonds!]
-[06:26:56] [Server thread/INFO]: Cxmbas has made the advancement [Not Today, Thank You]
-[06:30:57] [Server thread/INFO]: x6Jxison has made the advancement [Diamonds!]
-[06:32:14] [Server thread/INFO]: [Not Secure] <x6Jxison> xaero-waypoint:a:A:74:-26:170:1:false:0:Internal-overworld-waypoints
-[06:34:43] [Server thread/INFO]: x6Jxison has made the advancement [Not Today, Thank You]
-[06:36:37] [Server thread/INFO]: x6Jxison was blown up by Creeper
-[06:37:06] [Server thread/INFO]: [Not Secure] <x6Jxison> xaero-waypoint:gui.xaero-deathpoint:D:98:-33:66:0:false:0:Internal-overworld-waypoints
-[06:42:27] [Server thread/INFO]: Cxmbas lost connection: Disconnected
-[06:42:27] [Server thread/INFO]: Cxmbas left the game
-[06:43:46] [Server thread/INFO]: x6Jxison has made the advancement [Suit Up]
-[06:47:51] [Server thread/INFO]: x6Jxison has made the advancement [Ice Bucket Challenge]
-[06:51:48] [Server thread/INFO]: x6Jxison lost connection: Disconnected
-[06:51:48] [Server thread/INFO]: x6Jxison left the game
-[06:51:56] [Server thread/INFO]: Stopping the server
-[06:51:56] [Server thread/INFO]: Stopping server
-[06:51:56] [Server thread/INFO]: Saving players
-[06:51:56] [Server thread/INFO]: Saving worlds
-[06:51:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:51:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06:51:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06:51:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:51:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:51:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:51:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:08:57] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:08:59] [ServerMain/INFO]: Loaded 7 recipes
+[06:08:59] [ServerMain/INFO]: Loaded 1271 advancements
+[06:09:00] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[06:09:00] [Server thread/INFO]: Loading properties
+[06:09:00] [Server thread/INFO]: Default game type: SURVIVAL
+[06:09:00] [Server thread/INFO]: Generating keypair
+[06:09:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:09:00] [Server thread/INFO]: Using epoll channel type
+[06:09:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:09:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:09:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:09:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:09:00] [Server thread/INFO]: Preparing level "world"
+[06:09:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:09:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:09:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:09:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:09:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:09:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:09:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[06:09:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:09:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:09:07] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[06:09:08] [Worker-Main-2/INFO]: Preparing spawn area: 5%
+[06:09:08] [Worker-Main-3/INFO]: Preparing spawn area: 9%
+[06:09:09] [Worker-Main-3/INFO]: Preparing spawn area: 9%
+[06:09:09] [Worker-Main-1/INFO]: Preparing spawn area: 84%
+[06:09:09] [Server thread/INFO]: Time elapsed: 6183 ms
+[06:09:09] [Server thread/INFO]: Done (9.235s)! For help, type "help"
+[06:09:29] [Server thread/INFO]: Cxmbas[/127.124.147.232:45537] logged in with entity id 96 at (119.58730385617211, -44.0, 63.149255326131644)
+[06:09:29] [Server thread/INFO]: Cxmbas joined the game
+[06:09:57] [Server thread/INFO]: x6Jxison[/127.21.171.204:35387] logged in with entity id 311 at (-513.3000000119209, 81.0, 826.3000000119209)
+[06:09:57] [Server thread/INFO]: x6Jxison joined the game
+[06:10:11] [Server thread/INFO]: [Not Secure] <x6Jxison> q mierda
+[06:10:17] [Server thread/INFO]: [Not Secure] <x6Jxison> verdad q aca no hemos hecho ni mierda
+[06:10:18] [Server thread/INFO]: [Not Secure] <Cxmbas> q ?
+[06:10:23] [Server thread/INFO]: [Not Secure] <x6Jxison> disq hierro
+[06:10:25] [Server thread/INFO]: [Not Secure] <x6Jxison> q mierda
+[06:10:26] [Server thread/INFO]: [Not Secure] <x6Jxison> JAJA
+[06:10:31] [Server thread/INFO]: [Not Secure] <Cxmbas> JAJJAJAJJAJJAA
+[06:10:31] [Server thread/INFO]: [Not Secure] <x6Jxison> xaero-waypoint:Aldea:A:-516:81:827:0:false:0:Internal-overworld-waypoints
+[06:11:03] [Server thread/INFO]: [Not Secure] <x6Jxison> lleguese
+[06:11:08] [Server thread/INFO]: [Not Secure] <x6Jxison> y empezemo esta mierda
+[06:11:17] [Server thread/INFO]: [Not Secure] <x6Jxison> ahora lo llamo q el cucho apague el tele
+[06:11:29] [Server thread/INFO]: [Not Secure] <Cxmbas> BRV
+[06:11:32] [Server thread/INFO]: [Not Secure] <x6Jxison> no m grite
+[06:11:37] [Server thread/INFO]: [Not Secure] <Cxmbas> jajajaja
+[06:11:54] [Server thread/INFO]: [Not Secure] <x6Jxison> aldea cerca del mar
+[06:11:58] [Server thread/INFO]: [Not Secure] <x6Jxison> apenas pa granja de mobs
+[06:12:02] [Server thread/INFO]: [Not Secure] <Cxmbas> SZA
+[06:12:10] [Server thread/INFO]: [Not Secure] <x6Jxison> y entonces cual es la gritadera
+[06:12:17] [Server thread/INFO]: [Not Secure] <x6Jxison> nos damos puño
+[06:12:50] [Server thread/INFO]: [Not Secure] <x6Jxison> q terreno mas feo
+[06:13:47] [Server thread/INFO]: [Not Secure] <x6Jxison> ash parce
+[06:14:09] [Server thread/INFO]: [Not Secure] <x6Jxison> es aldea en plena montaña
+[06:14:11] [Server thread/INFO]: [Not Secure] <x6Jxison> ash
+[06:14:14] [Server thread/INFO]: [Not Secure] <Cxmbas> q asco
+[06:14:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:14:18] [Server thread/INFO]: callese<--[HERE]
+[06:14:32] [Server thread/INFO]: [Not Secure] <x6Jxison> saqueemos y nos largamos
+[06:14:34] [Server thread/INFO]: [Not Secure] <x6Jxison> esta re feo
+[06:15:45] [Server thread/INFO]: [Not Secure] <x6Jxison> donde anda
+[06:15:50] [Server thread/INFO]: [Not Secure] <Cxmbas> en la mina
+[06:16:14] [Server thread/INFO]: [Not Secure] <x6Jxison> q lag
+[06:16:32] [Server thread/INFO]: [Not Secure] <x6Jxison> voy a buscar otra aldea
+[06:16:34] [Server thread/INFO]: [Not Secure] <x6Jxison> no llegue ahi
+[06:16:36] [Server thread/INFO]: [Not Secure] <Cxmbas> r
+[06:16:43] [Server thread/INFO]: [Not Secure] <Cxmbas> duerm
+[06:16:48] [Server thread/INFO]: [Not Secure] <Cxmbas> zzzzz
+[06:16:57] [Server thread/INFO]: [Not Secure] <x6Jxison> me andan corretiando
+[06:18:25] [Server thread/INFO]: [Not Secure] <x6Jxison> La mataroon
+[06:18:30] [Server thread/INFO]: [Not Secure] <Cxmbas> a mi ?
+[06:18:48] [Server thread/INFO]: [Not Secure] <x6Jxison> la telenovela
+[06:18:51] [Server thread/INFO]: [Not Secure] <x6Jxison> del cucho
+[06:18:52] [Server thread/INFO]: [Not Secure] <Cxmbas> JJAAJJAJA
+[06:18:53] [Server thread/INFO]: [Not Secure] <x6Jxison> se puso buena
+[06:21:49] [Server thread/INFO]: [Not Secure] <x6Jxison> esta version esta llena de monta;as
+[06:21:51] [Server thread/INFO]: [Not Secure] <x6Jxison> xd
+[06:21:54] [Server thread/INFO]: [Not Secure] <Cxmbas> sza
+[06:21:57] [Server thread/INFO]: [Not Secure] <Cxmbas> q gonorre
+[06:22:32] [Server thread/INFO]: [Not Secure] <x6Jxison> va tocar adaptarnos
+[06:22:59] [Server thread/INFO]: [Not Secure] <x6Jxison> encontre una pillager outpost
+[06:23:01] [Server thread/INFO]: [Not Secure] <Cxmbas> aldea
+[06:23:04] [Server thread/INFO]: [Not Secure] <x6Jxison> donde
+[06:23:06] [Server thread/INFO]: [Not Secure] <x6Jxison> mande ubi
+[06:23:09] [Server thread/INFO]: [Not Secure] <Cxmbas> voy
+[06:23:17] [Server thread/INFO]: [Not Secure] <Cxmbas> esta grande
+[06:23:23] [Server thread/INFO]: [Not Secure] <x6Jxison> como la mia
+[06:23:24] [Server thread/INFO]: [Not Secure] <x6Jxison> digo
+[06:23:26] [Server thread/INFO]: [Not Secure] <Cxmbas> dio
+[06:23:26] [Server thread/INFO]: [Not Secure] <x6Jxison> mande ubi
+[06:23:49] [Server thread/INFO]: [Not Secure] <Cxmbas> xaero-waypoint:Aldea:A:805:88:-255:12:false:0:Internal-overworld-waypoints
+[06:24:10] [Server thread/INFO]: [Not Secure] <x6Jxison> uy estoy en la ptmierda
+[06:24:36] [Server thread/INFO]: [Not Secure] <x6Jxison> xaero-waypoint:Pillager Outpost:P:-905:89:232:8:false:0:Internal-overworld-waypoints
+[06:24:44] [Server thread/INFO]: [Not Secure] <x6Jxison> estoy ahi
+[06:25:08] [Server thread/INFO]: [Not Secure] <Cxmbas> portal
+[06:25:15] [Server thread/INFO]: [Not Secure] <Cxmbas> justo al lado
+[06:25:34] [Server thread/INFO]: [Not Secure] <x6Jxison> ig
+[06:25:41] [Server thread/INFO]: Cxmbas has made the advancement [Ice Bucket Challenge]
+[06:34:57] [Server thread/INFO]: Cxmbas has made the advancement [Suit Up]
