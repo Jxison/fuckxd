@@ -332,7 +332,8 @@
       "cooked_porkchop": "2024-12-03 06:09:37 +0000",
       "cooked_mutton": "2024-12-03 06:13:01 +0000",
       "cooked_beef": "2024-12-03 06:18:10 +0000",
-      "mutton": "2024-12-03 06:08:17 +0000"
+      "mutton": "2024-12-03 06:08:17 +0000",
+      "bread": "2024-12-05 06:34:47 +0000"
     },
     "done": false
   },
@@ -1372,6 +1373,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-05 06:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-05 06:42:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-05 06:25:06 +0000"
@@ -1408,9 +1421,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-05 06:34:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2024-12-05 06:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-05 06:34:34 +0000"
     },
     "done": true
   },
